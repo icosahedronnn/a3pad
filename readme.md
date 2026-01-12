@@ -25,6 +25,7 @@ OLED screen just for funsies. Might make a program to dynamically change it in t
 
 ## Production
 The case top and main case are together in the same file. They're small enough, I hope.
+<img width="1280" height="728" alt="a3padv2-2026-01-12 005459" src="https://github.com/user-attachments/assets/5160637e-1f05-4b15-b1c5-922b71705460" />
 
 ## Bill Of Materials
 Gotta know the materials part, I guess.
