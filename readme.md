@@ -31,12 +31,19 @@ The case top and main case are together in the same file. They're small enough, 
 Gotta know the materials part, I guess.
 
 4x Cherry MX Falcons -- If needed I can absolutely take regular Cherry MX Reds.
+
 4x DSA Keycaps
+
 4x M3x16mm screws
+
 4x M3x5x4 Heatset inserts
+
 1x 0.91" 128x32 OLED Display
+
 1x EC11 Rotary Encoder
+
 1x XIAO RP2040
+
 1x Case (fully 3d printed)
 
 ## Elsewise
